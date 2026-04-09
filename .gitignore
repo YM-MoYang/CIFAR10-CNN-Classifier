@@ -1,0 +1,27 @@
+# Python 虚拟环境
+venv/
+env/
+ENV/
+venv*/
+
+# 数据集文件夹
+data/
+cifar-10-batches-py/
+cifar-10-batches-py.tar.gz
+
+# Jupyter notebook 检查点（可选）
+.ipynb_checkpoints/
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE 配置（如果使用）
+.vscode/
+.idea/
+*.swp
+
+# 其他临时文件
+temp/
+tmp/d
