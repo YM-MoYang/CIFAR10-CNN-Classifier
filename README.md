@@ -39,4 +39,4 @@ pip install -r requirements.txt
 
 - 通过torchvision库对数据集进行下载，如果在国内则需要VPN
 - 尽量使用GPU运行，CPU速度较慢
-- 请先阅读Referrence Image中的项目结构图
+- 请先阅读Reference Image中的项目结构图
