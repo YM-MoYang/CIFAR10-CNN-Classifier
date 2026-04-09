@@ -12,12 +12,12 @@
 
 ## 如何使用
 
-### -1. 安装依赖
-  (bash)
+### 1. 安装依赖
+- (bash)
 - pip install -r requirements.txt
-### -2. 运行程序
+### 2. 运行程序
 - 启动 Jupyter Notebook，打开 Main.ipynb 运行即可
-### -3. 数据集
+### 3. 数据集
   首次运行时会自动下载 CIFAR10 数据集（约163MB）
 
 ## 环境要求
