@@ -28,10 +28,10 @@
 
 ## 项目结构
 
-├── Main.ipynb          # 主程序
-├── *.pth               # 预训练模型（4个）
-├── requirements.txt    # 依赖包列表
-└── .gitignore         # Git忽略配置
+├── Main.ipynb           主程序
+├── *.pth                预训练模型（4个）
+├── requirements.txt     依赖包列表
+└── .gitignore           Git忽略配置
 
 ## 注意事项
 
