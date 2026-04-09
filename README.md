@@ -13,8 +13,10 @@
 ## 如何使用
 
 ### 1. 安装依赖
-- (bash)
-- pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
+
 ### 2. 运行程序
 - 启动 Jupyter Notebook，打开 Main.ipynb 运行即可
 ### 3. 数据集
